@@ -11,8 +11,8 @@
   - [Gym Membership](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Projects</b>
   - [Country Waste Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Credit Card Transactions Analysis](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Company Layoffs](https://github.com/Benny-Og/Layoffs)
+  - [Credit Card Transactions Analysis](https://github.com/Benny-Og/Transactions)
+  - [Company Layoffs Analysis](https://github.com/Benny-Og/Layoffs)
 
 
 <h2> 🤳 Connect with me:</h2>
