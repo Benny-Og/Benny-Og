@@ -3,9 +3,9 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Excel Projects:</b>
-  - [African Economy Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Coffee Sales Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hyundai Stock Anlaysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [African Economy Analysis](https://github.com/Benny-Og/myprojects)
+  - [Coffee Sales Analysis](https://github.com/Benny-Og/myprojects)
+  - [Hyundai Stock Anlaysis](https://github.com/Benny-Og/myprojects)
 - <b>SQL Projects:</b>
   - [Employee Sales](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Gym Membership](https://github.com/joshmadakor1/Algorithms-Practice)
