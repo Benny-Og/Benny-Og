@@ -8,7 +8,7 @@
   - [Hyundai Stock Anlaysis](https://github.com/Benny-Og/Hyundai-Stock)
 - <b>SQL Projects:</b>
   - [Employee Sales](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Gym Membership](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Gym Membership](https://github.com/Benny-Og/Gym/tree/main)
 - <b>Python Projects</b>
   - [Country Waste Analysis](https://github.com/Benny-Og/Waste/tree/main)
   - [Credit Card Transactions Analysis](https://github.com/Benny-Og/Transactions)
