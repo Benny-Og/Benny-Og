@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Excel Projects:</b>
-  - [African Economy Analysis](https://github.com/Benny-Og/myprojects)
+  - [African Economy Analysis](https://github.com/Benny-Og/African-Economy/blob/main/README.md)
   - [Coffee Sales Analysis](https://github.com/Benny-Og/myprojects)
   - [Hyundai Stock Anlaysis](https://github.com/Benny-Og/myprojects)
 - <b>SQL Projects:</b>
