@@ -4,7 +4,7 @@
 
 - <b>Excel Projects:</b>
   - [African Economy Analysis](https://github.com/Benny-Og/African-Economy)
-  - [Coffee Sales Analysis](https://github.com/Benny-Og/myprojects)
+  - [Coffee Sales Analysis](https://github.com/Benny-Og/Coffee-Sales/tree/main)
   - [Hyundai Stock Anlaysis](https://github.com/Benny-Og/myprojects)
 - <b>SQL Projects:</b>
   - [Employee Sales](https://github.com/joshmadakor1/Algorithms-Practice)
