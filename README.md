@@ -7,7 +7,7 @@
   - [Coffee Sales Analysis](https://github.com/Benny-Og/Coffee-Sales/tree/main)
   - [Hyundai Stock Anlaysis](https://github.com/Benny-Og/Hyundai-Stock)
 - <b>SQL Projects:</b>
-  - [Employee Sales](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
   - [Gym Membership](https://github.com/Benny-Og/Gym/tree/main)
 - <b>Python Projects</b>
   - [Country Waste Analysis](https://github.com/Benny-Og/Waste/tree/main)
