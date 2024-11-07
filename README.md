@@ -12,7 +12,7 @@
 - <b>Python Projects</b>
   - [Country Waste Analysis](https://github.com/Benny-Og/Waste/tree/main)
   - [Credit Card Transactions Analysis](https://github.com/Benny-Og/Transactions)
-  - [Company Layoffs Analysis](https://github.com/Benny-Og/Layoffs)
+  - [World Layoffs Analysis](https://github.com/Benny-Og/Layoffs)
 
 
 <h2> 🤳 Connect with me:</h2>
