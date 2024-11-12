@@ -9,10 +9,12 @@
 - <b>SQL Projects:</b>
   - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
   - [Gym Membership](https://github.com/Benny-Og/Gym/tree/main)
-- <b>Python Projects</b>
+- <b>Python Projects:</b>
   - [Country Waste Analysis](https://github.com/Benny-Og/Waste/tree/main)
   - [Credit Card Transactions Analysis](https://github.com/Benny-Og/Transactions)
   - [World Layoffs Analysis](https://github.com/Benny-Og/Layoffs)
+- <b>Tableau Projects:</b>
+  - (https://public.tableau.com/app/profile/benny.o6939/vizzes)
 
 
 <h2> 🤳 Connect with me:</h2>
