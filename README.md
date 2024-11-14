@@ -9,6 +9,7 @@
 - <b>SQL Projects:</b>
   - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
   - [Gym Membership](https://github.com/Benny-Og/Gym/tree/main)
+  - [Superstore Marketing](https://github.com/Benny-Og/Superstore)   
 - <b>Python Projects:</b>
   - [Country Waste Analysis](https://github.com/Benny-Og/Waste/tree/main)
   - [Credit Card Transactions Analysis](https://github.com/Benny-Og/Transactions)
