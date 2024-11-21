@@ -6,6 +6,7 @@
   - [African Economy Analysis](https://github.com/Benny-Og/African-Economy/tree/main)
   - [Coffee Sales Analysis](https://github.com/Benny-Og/Coffee-Sales/tree/main)
   - [Hyundai Stock Anlaysis](https://github.com/Benny-Og/Hyundai-Stock)
+  - [2023 NBA Draft Analysis](https://github.com/Benny-Og/Draft23/tree/main)
 - <b>SQL Projects:</b>
   - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
   - [Gym Membership](https://github.com/Benny-Og/Gym/tree/main)
