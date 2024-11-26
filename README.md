@@ -8,6 +8,7 @@
   - [Hyundai Stock Anlaysis](https://github.com/Benny-Og/Hyundai-Stock)
   - [2023 NBA Draft Analysis](https://github.com/Benny-Og/Draft23/tree/main)
 - <b>SQL Projects:</b>
+  - [Company Invoices](https://github.com/Benny-Og/Invoices)
   - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
   - [Gym Membership](https://github.com/Benny-Og/Gym/tree/main)
   - [Superstore Marketing](https://github.com/Benny-Og/Superstore)   
