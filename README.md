@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b>AI/ML Projects:</b>
-  - 
 - <b>SQL Projects:</b>
   - [Company Invoices](https://github.com/Benny-Og/Invoices)
   - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
@@ -15,7 +13,8 @@
   - [World Layoffs Analysis](https://github.com/Benny-Og/Layoffs)
 - <b>Tableau Projects:</b>
   - [Tableau Respository](https://public.tableau.com/app/profile/benny.o6939/vizzes)
-
+- <b>AI/ML Projects:</b>
+  - 
 
 <h2> 🤳 Connect with me:</h2>
 
