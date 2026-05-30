@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
+- <b>AI/ML Projects:<b>
+  - 
 - <b>SQL Projects:</b>
   - [Company Invoices](https://github.com/Benny-Og/Invoices)
   - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
