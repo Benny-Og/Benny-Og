@@ -4,6 +4,7 @@
 
 - <b>AI/ML Projects:</b>
   - [RAG-Syllabus](https://github.com/Benny-Og/RAG-Syllabus)
+  - []
 - <b>SQL Projects:</b>
   - [Company Invoices](https://github.com/Benny-Og/Invoices)
   - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
