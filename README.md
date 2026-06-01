@@ -5,6 +5,7 @@
 - <b>AI/ML Projects:</b>
   - [RAG-Syllabus](https://github.com/Benny-Og/RAG-Syllabus)
   - [Job-Listing-Portfolio-Agent](https://github.com/Benny-Og/Job-Listing-Portfolio-Agent)
+  - [Customer-Churn-Prediction](https://github.com/Benny-Og/Customer-Churn-Prediction)
 - <b>SQL Projects:</b>
   - [Company Invoices](https://github.com/Benny-Og/Invoices)
   - [Employee Sales](https://github.com/Benny-Og/Employee/tree/main)
